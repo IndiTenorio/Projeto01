@@ -13,14 +13,11 @@ body {
   text-align: center;
 }
 
-
 main {
   width: 592px;
   height: 300px;
   margin: auto;
-  /* background-color: aquamarine;  */
 }
-
 
 h1 {
     font-family: 'Inter', sans-serif;
@@ -35,8 +32,6 @@ h1 {
     font-weight: bold;
 }
 
-
-
 .laranja {
   color: #FF9900;
 }
@@ -46,8 +41,6 @@ p {
   font-size: 14px; 
   line-height:28px;
   margin-bottom: 20px;
-  /* background-color: brown; */
- 
 }
 
 a {
@@ -63,18 +56,9 @@ a {
 }
 
 footer {
-  /* margin-top: 72px; */
    margin-bottom: 33px; 
-   /* background-color: aquamarine;  */
   display: flex; 
   justify-content: center;
   gap: 28px;
-  font-size: 14px; }
-
-
-
-
-
-
-
-
+  font-size: 14px; 
+}
